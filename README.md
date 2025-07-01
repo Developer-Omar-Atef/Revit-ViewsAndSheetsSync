@@ -6,18 +6,7 @@ A C#/.NET add-in for Autodesk Revit that streamlines the management of View and 
 
 ### 🎥 Demo
 
-**(THIS IS THE MOST IMPORTANT PART!)**
-*Create a 15-30 second GIF showing your tool in action and embed it here. Use a tool like ScreenToGif.*
-*The GIF should show:
-1.  Clicking the add-in button in the Revit ribbon.
-2.  The WPF window appearing.
-3.  Selecting "Sheets" and some parameters, then clicking "Export".
-4.  Showing the generated Excel file.
-5.  Changing a few values in the Excel file (e.g., "Drawn By", "Sheet Number").
-6.  Going back to the tool and clicking "Import".
-7.  Showing the updated parameters in the Revit properties panel.*
 
-![ViewsAndSheetsSync Demo GIF](link_to_your_gif_once_uploaded.gif)
 
 ---
 
