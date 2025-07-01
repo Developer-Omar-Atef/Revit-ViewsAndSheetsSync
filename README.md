@@ -6,7 +6,7 @@ A C#/.NET add-in for Autodesk Revit that streamlines the management of View and 
 
 ### 🎥 Demo
 
-![ViewsAndSheetsSync Promotional Video.gif]
+![ViewsAndSheetsSync Demo GIF](Promotional Video.gif)
 
 ---
 
